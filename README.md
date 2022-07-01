@@ -16,8 +16,8 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/masood" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="masood" height="30" width="40" /></a>
-<a href="https://fb.com/masood12ahmed" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="masood12ahmed" height="30" width="40" /></a>
-<a href="https://instagram.com/fifthdottyboi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="fifthdottyboi" height="30" width="40" /></a>
+<a href="[https://fb.com/masood12ahmed](https://www.facebook.com/ahmad.javed.399)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="masood12ahmed" height="30" width="40" /></a>
+<a href="[https://instagram.com/fifthdottyboi](https://www.instagram.com/ahmed.__.47/)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="fifthdottyboi" height="30" width="40" /></a>
 <a href="https://discord.gg/fifthdottyboi#9761" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="fifthdottyboi#9761" height="30" width="40" /></a>
 </p>
 
